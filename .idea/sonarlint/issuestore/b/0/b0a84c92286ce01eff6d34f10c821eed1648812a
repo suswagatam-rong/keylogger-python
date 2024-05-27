@@ -1,0 +1,7 @@
+
+npython:S117^"WRename this local variable "IPAddr" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Úýƒ
+Upython:S5754‹"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Mpython:S1656Å"/Remove or correct this useless self-assignment.(Ö÷û¡úÿÿÿÿ
+»python:S1515þ"œAdd a parameter to function "on_press" and use variable "write_file" as its default value;The value of "write_file" might change at the next loop iteration.(¿‡€Œýÿÿÿÿ
+Ápython:S1515"¢Add a parameter to function "on_release" and use variable "stoppingTime" as its default value;The value of "stoppingTime" might change at the next loop iteration.(òš¶þÿÿÿÿ
+¿python:S1515" Add a parameter to function "on_release" and use variable "currentTime" as its default value;The value of "currentTime" might change at the next loop iteration.(òš¶þÿÿÿÿ
